@@ -10,8 +10,40 @@
 .navbar{
     
     border-bottom:1px solid rgba(0, 0, 0, 0.253) ;
+    margin-bottom: 100px;
 }
 
 .container-fluid{
     margin: 0px 60px;
+}
+
+.box{
+    display: flex;
+   
+}
+.container{
+    margin-left: 200px;
+}
+.photo{
+    
+}
+
+.text{
+    margin: auto;
+}
+
+.btn{
+    border: 1px solid rgba(128, 128, 128, 0.411);
+    width: 100px;
+}
+
+.carouselmain{
+    width: 70%;
+  
+    margin: auto;
+    margin-top: 80px;
+}
+
+.gallery{
+    text-align: center;
 }
