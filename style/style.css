@@ -24,9 +24,6 @@
 .container{
     margin-left: 200px;
 }
-.photo{
-    
-}
 
 .text{
     margin: auto;
@@ -46,4 +43,40 @@
 
 .gallery{
     text-align: center;
+    margin: 80px 0px;
+    font-size: 50px;
+}
+
+.card-img-top{
+    width: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.cardscontainer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card{
+    margin: 40px;
+    border: none;
+}
+
+.cards{
+    border-right: 1px solid rgba(0, 0, 0, 0.178);
+}
+
+.name, .card-text{
+    margin: 20px 0px;
+}
+
+.name{
+    text-align: center;
+}
+
+.card-text{
+    font-size: 13px;
 }
