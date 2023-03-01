@@ -80,3 +80,57 @@
 .card-text{
     font-size: 13px;
 }
+
+
+.textareaa{
+    height: 100px;
+}
+
+.boxtextarea{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bottomform{
+    margin: auto;
+}
+
+.form-label, .form-check-label {
+    font-weight: 500;
+}
+
+.undersocial{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.undersocial > ul{
+    list-style-type: none;
+    margin: 0px;
+}
+.imga{
+    width: 40px;
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 5px;
+}
+
+.undertext{
+    text-align: center;
+    margin-top: 40px;
+    padding-left: 40px;
+    color: rgba(0, 0, 0, 0.616);
+}
