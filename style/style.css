@@ -111,19 +111,19 @@ body{
 @media (max-width: 767px) { 
     .cards1{
         position: absolute;
-        bottom: -2500px;
+        bottom: -2800px;
     }
 }
 @media (max-width: 767px) { 
     .cards2{
         position: absolute;
-        bottom: -3000px;
+        bottom: -3300px;
     }
 }
 @media (max-width: 767px) { 
     .cards3{
         position: absolute;
-        bottom: -3500px;
+        bottom: -3800px;
     }
 }
 @media (max-width: 767px) { 
