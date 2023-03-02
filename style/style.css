@@ -1,3 +1,6 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .iconssocial{
     width: 30px;
     margin: 0px 20px;
@@ -102,26 +105,28 @@
     justify-content: center;
 }
 
-
-@media (max-width: 1000px) { 
+.btn{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+@media (max-width: 767px) { 
     .cards1{
         position: absolute;
-        bottom: -2400px;
+        bottom: -2500px;
     }
 }
-@media (max-width: 1000px) { 
+@media (max-width: 767px) { 
     .cards2{
         position: absolute;
-        bottom: -2900px;
+        bottom: -3000px;
     }
 }
-@media (max-width: 1000px) { 
+@media (max-width: 767px) { 
     .cards3{
         position: absolute;
-        bottom: -3400px;
+        bottom: -3500px;
     }
 }
-@media (max-width: 1000px) { 
+@media (max-width: 767px) { 
     .bottomform{
       margin-top: 1600px;
     }
